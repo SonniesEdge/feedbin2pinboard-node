@@ -1,7 +1,7 @@
 feedbin2pinboard
 ================
 
-Tiny script to move Feedbin starred items to Pinboard "toread" items.
+Tiny script to move Feedbin starred items to Pinboard "toread" items, perhaps as part of a daily cron task.
 
 You'll need node.js installed.
 
